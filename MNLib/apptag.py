@@ -12,8 +12,8 @@ import datetime
 import os
 from collections import OrderedDict
 
-from appbase import AppBase
-from readSerial import ReadSerial
+from .appbase import AppBase
+from .readSerial import ReadSerial
 
 class AppTag(AppBase):
 	# コンストラクタ

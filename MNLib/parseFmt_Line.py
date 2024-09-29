@@ -1,6 +1,6 @@
 # coding: UTF-8
 
-from parseFmt import FmtBase
+from .parseFmt import FmtBase
 
 # 特別な書式ではないが、1行を読み取る
 class FmtLine(FmtBase):

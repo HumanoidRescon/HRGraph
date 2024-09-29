@@ -1,6 +1,6 @@
 # coding: UTF-8
 
-from parseFmt import FmtBase
+from .parseFmt import FmtBase
 
 # バイナリ書式を解読する
 class FmtBinary(FmtBase):

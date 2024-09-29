@@ -12,7 +12,7 @@ import datetime
 import os
 from collections import OrderedDict
 
-from readSerial import ReadSerial
+from .readSerial import ReadSerial
 
 #
 # アプリごとに使用するであろう共通機能をまとめた基底クラス

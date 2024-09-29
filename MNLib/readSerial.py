@@ -8,8 +8,8 @@ except ImportError:
 	print( "Please install pyserial. " )
 	quit()
 
-from parseFmt_Ascii import FmtAscii
-from parseFmt_Binary import FmtBinary
+from .parseFmt_Ascii import FmtAscii
+from .parseFmt_Binary import FmtBinary
 
 # シリアル読み込みを行うクラス
 

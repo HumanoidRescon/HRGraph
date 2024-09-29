@@ -1,6 +1,6 @@
 # coding: UTF-8
 
-from parseFmt import FmtBase
+from .parseFmt import FmtBase
 
 class FmtAscii(FmtBase):
     def __init__(self):
