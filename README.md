@@ -13,7 +13,7 @@
 - モノワイヤレス株式会社が公開している[グラフ描画スクリプト](https://mono-wireless.com/jp/products/TWE-Lite-2525A/howtouse-graph.html) Graphを基にしたものである．
 - Graphは汎用的なスクリプトとして作られているが，それを半ば強引にヒト型レスコンに特化したスクリプトにしている．
 - Windows PCで動作する（他のOSでは未検証）．
-- [モノワイヤレスソフトウェア使用許諾契約書](MW-SLA-1J.txt)を添付して公開する．
+- [モノワイヤレスソフトウェア使用許諾契約書](MW-SLA-1J.txt)を添付して公開する（[MW-SLA](https://twelite.gitbook.io/general/license/mw-sla)）．
 
 ## インストール
 
